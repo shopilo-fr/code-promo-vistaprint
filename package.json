@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-vistaprint",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Vistaprint depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-vistaprint",
+    "bon-de-reduction-vistaprint",
+    "coupon-vistaprint",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/vistaprint.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-vistaprint.git"
+  }
+}
